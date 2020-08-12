@@ -1,0 +1,9 @@
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\bin\Debug\netstandard2.0\LibraryOne.deps.json
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\bin\Debug\netstandard2.0\LibraryOne.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\bin\Debug\netstandard2.0\LibraryOne.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.AssemblyInfoInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.AssemblyInfo.cs
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryOne\LibraryOne\obj\Debug\netstandard2.0\LibraryOne.pdb

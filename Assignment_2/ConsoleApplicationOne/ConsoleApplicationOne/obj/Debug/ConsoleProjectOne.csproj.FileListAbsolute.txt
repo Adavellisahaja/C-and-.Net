@@ -1,0 +1,27 @@
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\LibraryOne.pdb
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\LibraryOne.dll.config
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\ConsoleProjectOne.csprojAssemblyReference.cache
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\ConsoleProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\ConsoleProjectOne.csproj.CopyComplete
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.exe.config
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\ConsoleProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\ConsoleProjectOne.csproj.CopyComplete
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\Assignment2.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Missellinious\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\Assignment2.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.exe.config
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\Assignment2.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\LibraryTwoArray.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\bin\Debug\LibraryTwoArray.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\ConsoleProjectOne.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\ConsoleProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\ConsoleProjectOne.csproj.CopyComplete
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\Assignment2.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleProjectOne\ConsoleProjectOne\obj\Debug\Assignment2.pdb

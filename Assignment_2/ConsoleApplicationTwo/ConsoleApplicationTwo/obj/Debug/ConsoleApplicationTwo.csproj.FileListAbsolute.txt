@@ -1,0 +1,12 @@
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\obj\Debug\ConsoleApplicationTwo.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\obj\Debug\ConsoleApplicationTwo.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\ConsoleApplicationTwo.exe.config
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\ConsoleApplicationTwo.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\ConsoleApplicationTwo.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\LibraryOne.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\LibraryThree.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\LibraryOne.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\bin\Debug\LibraryThree.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\obj\Debug\ConsoleApplicationTwo.csproj.CopyComplete
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\obj\Debug\ConsoleApplicationTwo.exe
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\ConsoleApplicationTwo\ConsoleApplicationTwo\obj\Debug\ConsoleApplicationTwo.pdb

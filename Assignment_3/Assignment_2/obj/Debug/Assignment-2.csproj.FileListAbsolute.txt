@@ -1,0 +1,5 @@
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 2\Julian Pineda Assignment 2\bin\Debug\Julian Pineda Assignment 2.dll
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 2\Julian Pineda Assignment 2\bin\Debug\Julian Pineda Assignment 2.pdb
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 2\Julian Pineda Assignment 2\obj\Debug\Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 2\Julian Pineda Assignment 2\obj\Debug\Julian Pineda Assignment 2.dll
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 2\Julian Pineda Assignment 2\obj\Debug\Julian Pineda Assignment 2.pdb

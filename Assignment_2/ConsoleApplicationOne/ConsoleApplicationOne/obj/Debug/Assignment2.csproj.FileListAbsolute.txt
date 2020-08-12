@@ -1,0 +1,11 @@
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\LibraryOne.dll
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\LibraryOne.pdb
+C:\Users\Theja\source\repos\Assignment2\Assignment2\bin\Debug\LibraryOne.dll.config
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CopyComplete
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Theja\source\repos\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

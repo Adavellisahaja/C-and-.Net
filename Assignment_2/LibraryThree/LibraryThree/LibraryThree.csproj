@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibraryOne">
+      <HintPath>..\..\LibraryOne\LibraryOne\bin\Debug\netstandard2.0\LibraryOne.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

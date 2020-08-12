@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTrackerForm", "TimeTrackerForm\TimeTrackerForm.csproj", "{C7FF7576-3A34-4CF2-AA9D-EC5C65E18560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_3", "Assignment_3\Assignment_3.csproj", "{043D37D0-1C12-482C-B949-648BF75FF076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_2", "Assignment_2\Assignment_2.csproj", "{C2D96CCF-890F-4ECA-A157-C33AA5219F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FF7576-3A34-4CF2-AA9D-EC5C65E18560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FF7576-3A34-4CF2-AA9D-EC5C65E18560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FF7576-3A34-4CF2-AA9D-EC5C65E18560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FF7576-3A34-4CF2-AA9D-EC5C65E18560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043D37D0-1C12-482C-B949-648BF75FF076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043D37D0-1C12-482C-B949-648BF75FF076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043D37D0-1C12-482C-B949-648BF75FF076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043D37D0-1C12-482C-B949-648BF75FF076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D96CCF-890F-4ECA-A157-C33AA5219F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D96CCF-890F-4ECA-A157-C33AA5219F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D96CCF-890F-4ECA-A157-C33AA5219F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D96CCF-890F-4ECA-A157-C33AA5219F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34CACAB-1D8C-4686-A2F7-246AC1FE1913}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.pdb
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.dll
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.pdb
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CopyComplete
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Julian\source\repos\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.pdb
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.pdb
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.dll
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.pdb
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CopyComplete
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Theja\Desktop\Assignment 3\Julian Pineda Assignment 3\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.pdb
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 3.pdb
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.dll
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\bin\Debug\Julian Pineda Assignment 2.pdb
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.csproj.CopyComplete
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.dll
+C:\Users\Theja\Desktop\Final Assignment\Julian Pineda Assignment 3\obj\Debug\Julian Pineda Assignment 3.pdb

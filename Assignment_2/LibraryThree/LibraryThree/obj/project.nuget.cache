@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6LrLh+t0xJpuljswY0paYctTGm7bw7C3hGokBIgvLuw289cg/eeeqWgTlYfLpLcnZUvvQD8ALgy9JSofJ29+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Theja\\Desktop\\Advanced Software Development with C# and .NET\\My Assignments\\Assignment 2\\LibraryThree\\LibraryThree\\LibraryThree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Theja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Theja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

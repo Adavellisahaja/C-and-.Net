@@ -1,0 +1,12 @@
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\bin\Debug\netstandard2.0\LibraryThree.deps.json
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\bin\Debug\netstandard2.0\LibraryThree.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\bin\Debug\netstandard2.0\LibraryThree.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\bin\Debug\netstandard2.0\LibraryOne.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\bin\Debug\netstandard2.0\LibraryOne.pdb
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.csprojAssemblyReference.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.AssemblyInfoInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.AssemblyInfo.cs
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.csproj.CoreCompileInputs.cache
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.csproj.CopyComplete
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.dll
+C:\Users\Theja\Desktop\Advanced Software Development with C# and .NET\My Assignments\Assignment 2\LibraryThree\LibraryThree\obj\Debug\netstandard2.0\LibraryThree.pdb
